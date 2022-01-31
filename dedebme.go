@@ -1,4 +1,4 @@
-package webEmbed
+package dedebme
 
 import (
 	"fmt"
